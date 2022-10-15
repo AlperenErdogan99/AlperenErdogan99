@@ -10,7 +10,7 @@ After that i switched job to my current job for new adventure. Nowadays, I am a 
  * C++, Qt5, Linux / Embedded Linux, Uart/RS232, IOT, Bash/Python Script, BBB and Git(Bitbucket)
 
 Contact:
-    Linkedin: https://www.linkedin.com/in/alperen-erdogan99
+ * Linkedin: https://www.linkedin.com/in/alperen-erdogan99
     
 <!---
 AlperenErdogan99/AlperenErdogan99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
