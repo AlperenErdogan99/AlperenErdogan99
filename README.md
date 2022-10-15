@@ -1,4 +1,4 @@
-- Hi, I’m Alperen. I graduated from Electronics and Communication Engineering in 2021. During my university education, I worked in the following topcs: 
+Hi, I’m Alperen. I graduated from Electronics and Communication Engineering in 2021. During my university education, I worked in the following topcs: 
  * Embedded Software/Hardware
  * Machine Learning
  * Deep Learning 
@@ -22,8 +22,7 @@ In this work experience, I developed applications for marine industry. I have ga
  * Bash/Python Script
  * RaspberryPi3/4
 
-- After that i switched job to my current job for new adventure. Nowadays, I am a software engineer. I am developing applications
-for traffic industry. I am gaining experience in the following topics:
+After that i switched job to my current job for new adventure. Nowadays, I am a software engineer. I am developing applications for traffic industry. I am gaining experience in the following topics:
  * C++
  * Qt5
  * Linux / Embedded Linux
