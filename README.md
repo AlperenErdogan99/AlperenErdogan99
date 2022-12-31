@@ -9,7 +9,7 @@ In this work experience, I developed applications for marine industry. I have ga
 After that i switched to my job for new adventure. I was a software engineer. I developed applications for traffic industry. I experienced in the following topics:
  * C++, Qt5, Linux / Embedded Linux, Uart/RS232, IOT, Bash/Python Script, BBB and Git(Bitbucket)
 
-Nowadays, I am working for SIEMENS as a software engineer.
+Nowadays, I am working for SIEMENS as a software developer.
 
 Contact:
  * Linkedin: https://www.linkedin.com/in/alperen-erdogan99
